@@ -41,7 +41,9 @@ GROUP BY o.OrderID;
 ## 🎯 Outcome
 
 ✅ Understanding of SQL joins.
+
 ✅ Understanding of merging data across multiple tables.
+
 ✅ Being able to explain practical scenarios of joins in interviews.
 
 ---
